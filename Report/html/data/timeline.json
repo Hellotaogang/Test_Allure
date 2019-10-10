@@ -1,0 +1,49 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DXIT-2018",
+    "children" : [ {
+      "name" : "11376-MainThread",
+      "children" : [ {
+        "name" : "test_001",
+        "uid" : "3dabbd4d04874f89",
+        "parentUid" : "f6444388129d74cc0d24efee261a6ebb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1570541851707,
+          "stop" : 1570541851709,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_003",
+        "uid" : "562fe0ce6563f2ae",
+        "parentUid" : "f6444388129d74cc0d24efee261a6ebb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1570541851761,
+          "stop" : 1570541851836,
+          "duration" : 75
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_002",
+        "uid" : "6f3f5c38dd72d24",
+        "parentUid" : "f6444388129d74cc0d24efee261a6ebb",
+        "status" : "failed",
+        "time" : {
+          "start" : 1570541851712,
+          "stop" : 1570541851715,
+          "duration" : 3
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f6444388129d74cc0d24efee261a6ebb"
+    } ],
+    "uid" : "009b8455445da1d1a072343e0f00d0a5"
+  } ]
+}

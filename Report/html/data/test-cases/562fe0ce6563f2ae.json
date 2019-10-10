@@ -1,0 +1,79 @@
+{
+  "uid" : "562fe0ce6563f2ae",
+  "name" : "test_003",
+  "fullName" : "scripts.test_allure.Test_Allure#test_003",
+  "historyId" : "d6881901cb43a8d2e47218bfee7512df",
+  "time" : {
+    "start" : 1570541851761,
+    "stop" : 1570541851836,
+    "duration" : 75
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "755622cdd0682e89",
+      "name" : "我是附件截图的名字",
+      "source" : "755622cdd0682e89.jpg",
+      "type" : "image/jpg",
+      "size" : 270374
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "scripts"
+  }, {
+    "name" : "suite",
+    "value" : "test_allure"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_Allure"
+  }, {
+    "name" : "host",
+    "value" : "DXIT-2018"
+  }, {
+    "name" : "thread",
+    "value" : "11376-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "scripts.test_allure"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "f5f519494294106c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1570455361554,
+        "stop" : 1570455361583,
+        "duration" : 29
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "562fe0ce6563f2ae.json",
+  "parameterValues" : [ ]
+}
